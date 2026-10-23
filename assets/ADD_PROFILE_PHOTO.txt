@@ -1,0 +1,3 @@
+Place your original photograph in this folder and name it exactly "profile.jpg".
+Expected relative path: assets/profile.jpg
+The page uses this image as-is, with object-fit: cover and object-position: center 35%.
